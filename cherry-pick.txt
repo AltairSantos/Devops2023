@@ -1,1 +1,3 @@
 exemplo  cherry-pick
+
+O cherry-pick é um comando Git
